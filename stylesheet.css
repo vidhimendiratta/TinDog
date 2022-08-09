@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+@font-face {
+    font-family: testing;
+    src: url(Ubuntu-Bold.ttf);
+}
+
+#tindog_logo{
+    font-family: testing;
+    color: white;
+    font-size: 45px;
+}
+
+.navbar{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.nav-link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color:rgb(255, 164, 169);
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.nav-item{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#section1{
+    background-color: #ff4c68;
+
+}
+
+#h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+}
+
+#gif{
+    height: 600px;
+    width: 300px;
+    transform: rotate(25deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section2{
+    height: 500px;
+    text-align: center;
+}
+
+.icon{
+    color: #ef8172;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+.headers{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+}
+
+.benefits{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color:rgb(114, 114, 114);
+}
+
+.test{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icons{
+    width: 375px;
+}
+
+#section3{
+    background-color: #ef8172;
+    height: 630px;
+}
+
+#reviews{
+    padding-top: 100px;
+}
+
+.carousel-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.statements{
+    font-size: 30px;
+    padding-left: 215px;
+    padding-right: 215px;
+}
+
+#articles{
+    display: flex;
+    justify-content: center;
+    margin-top: 125px;
+}
+
+.news{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#section4{
+    height: 700px;
+    text-align: center;
+
+}
+
+#four{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(114, 114, 114);
+    font-weight: 100;
+    padding-top: 20px;
+}
+
+.card-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+.card{
+    width: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 450px;
+}
+
+.package-type{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.sign-up{
+    width: 350px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: #ff4c68;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.sign-up:hover{
+    background-color: black;
+}
+
+#section5{
+    background-color: #ff4c68;
+    height: 500px;
+    text-align: center;
+}
+
+#conclusion{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    padding-top: 120px;
+    
+}
+
+footer{
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+}
